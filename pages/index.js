@@ -9,7 +9,7 @@ const Component = () => {
       <div className="flex flex-row p-2.5 items-start justify-start">
         <div className="flex flex-row p-2.5 items-start justify-start">
           <div className="flex flex-row items-start justify-start">
-            <div className="relative bg-white lg:w-[1000px] sm:w-[650px] md:w-[900px] h-[3462px] shrink-10 overflow-hidden">
+            <div className="relative bg-white lg:w-[1950px] sm:w-[1950px] md:w-[900px] h-[3462px] shrink-10 overflow-hidden">
               {/* <Header/> */}
               <img
                 className="absolute h-[21.21%] w-[23.39%] top-[-12.27%] right-[-99.69%] bottom-[91.05%] left-[176.3%] max-w-full overflow-hidden max-h-full object-cover"
